@@ -1,0 +1,17 @@
+{
+  "name": "Middle Tower",
+  "description": "The central cultural skyscraper of Aryana Island. A 7-story hub with precise architectural dimensions.",
+  "image": "ipfs://bafkreigzuiuxvz5pipktojc5ww2bzwhkf6firfxek7d7n5wv5pqlhpgdku",
+  "external_link": "https://metarang.com/en",
+  "attributes": [
+    { "trait_type": "Creation Date", "value": "1403/08/15" },
+    { "trait_type": "Total Area", "value": "34,491,811.88" },
+    { "trait_type": "Usage", "value": "Commercial" },
+    { "trait_type": "Floors", "value": "7" },
+    { "trait_type": "Height", "value": "420" },
+    { "trait_type": "Length", "value": "8415.1" },
+    { "trait_type": "Width", "value": "4098.87" }
+  ],
+  "geojson_metadata": "ipfs://bafkreicyysbammwclzrpsqs4zuef2ous3yzlzglvzmm2kgzts5w27n2fhi",
+  "qmd_metadata": "ipfs://bafkreihhmepfga4yggn7vw6xqq7ncaw4yzopa4weez2lqjhabf3jv62woa"
+}

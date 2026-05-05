@@ -1,0 +1,17 @@
+{
+  "name": "Aryana Island",
+  "description": "The first commercial and cultural hub of the Earth Metaverse. A unique space dedicated to Green Space Culture and advanced business towers.",
+  "image": "ipfs://bafkreihtfywohbufroyx7tbklb3gtdwo3koumuoi4jukstntj7z47cdcim",
+  "external_url": "https://metarang.com",
+  "attributes": [
+    { "trait_type": "Creation Date", "value": "1403/08/15" },
+    { "trait_type": "Creation Timestamp", "display_type": "date", "value": 1730751000 },
+    { "trait_type": "Area", "value": "145,756,604.6 sqm" },
+    { "trait_type": "Usage Type", "value": "Commercial and Green Space culture" }
+  ],
+  "geospatial_data": {
+    "boundaries_ipfs": "ipfs://bafkreihmhwg5a5ev2rckyzbwxtkzunwvqidab2pvwtevelib3dz4egdjrm",
+    "technical_specs_ipfs": "ipfs://bafkreihxshq56mrs2ol3d22kfo77r2u7blv7m5psw5j5mxalbmloyosfzq",
+    "format": "GeoJSON"
+  }
+}

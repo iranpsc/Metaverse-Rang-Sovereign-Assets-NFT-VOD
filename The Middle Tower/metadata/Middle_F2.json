@@ -1,0 +1,11 @@
+{
+  "name": "Middle Tower - Floor 2",
+  "description": "Cultural Space for News and Media",
+  "image": "ipfs://bafkreibt3n54vew5dh44t6tl7pie6l6jenffwv3wkggi7gkk73yyvkqszm",
+  "attributes": [
+    {"trait_type": "Usage", "value": "Advertising"},
+    {"trait_type": "Level", "value": "2"},
+    {"trait_type": "Length", "value": "8415.1" },
+    {"trait_type": "Width", "value": "4098.87" }
+  ]
+}
