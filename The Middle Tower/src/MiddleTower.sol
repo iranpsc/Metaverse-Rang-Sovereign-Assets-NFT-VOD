@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /**
  * @title MiddleTower NFT Collection
- * @author YourName/Organization
+ * @author Ali Nasirlou
  * @notice This contract manages a 7-floor tower where each floor is an NFT and can be rented.
  */
 contract MiddleTower is ERC721URIStorage, Ownable {
