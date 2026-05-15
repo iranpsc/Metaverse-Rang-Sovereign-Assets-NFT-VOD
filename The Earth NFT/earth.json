@@ -1,0 +1,12 @@
+{
+  "name": "The Earth",
+  "description": "The Earth stands as the primordial foundation of the Metaverse. It is the ultimate digital frontier and the central anchor for all territories, including the specialized 'Aryana Island'. Representing the entirety of our world’s legacy, this unique NFT is the heartbeat of a new civilization.",
+  "image": "ipfs://bafkreihduf5tcu4b23twgqibakhif4x33vx7cy2vz4jycdjvtd3zbylb4m",
+  "external_url": "https://metarang.com",
+  "attributes": [
+    { "trait_type": "Total Area", "value": "510,000,000 sq km" },
+    { "trait_type": "Generation", "value": "Origin" },
+    { "trait_type": "Rarity", "value": "Mythic" },
+    { "display_type": "date", "trait_type": "Creation Date", "value": 1667692800 }
+  ]
+}
