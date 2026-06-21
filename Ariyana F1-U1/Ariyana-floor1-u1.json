@@ -1,0 +1,39 @@
+{
+  "name": "AriyanaTowerF1U1",
+  "ID": "AT-F1-U1",
+  "image": "https://tomato-major-warbler-368.mypinata.cloud/ipfs/bafybeifoxmbyhktbp6nheqqx6r4rujuswkjbacmaqposzlifw6m2yil5lu",
+  "describtion": "Commercial unit1 located in floor 1, Ariana Tower , within The Earth ecosystem.",
+  "external_url": "https://metarang.com/",
+
+  "atributes": [
+    {
+      "trait_type": "parent NFT",
+      "value": ""
+    },
+
+    {
+      "trait-type": "area",
+      "value": 8779
+    },
+    {
+      "trait-type": "usage",
+      "value": "Commercial"
+    },
+    {
+      "trait-type": "height",
+      "value": 12
+    },
+    {
+      "trait-type": "length",
+      "value": 112.92
+    },
+    {
+      "trait-type": "Width",
+      "value": 101.17
+    },
+    {
+      "trait-type": "birthday",
+      "value": 1730768462
+    }
+  ]
+}
