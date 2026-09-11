@@ -1,0 +1,34 @@
+{
+  "name": "ArianaTowerF1U1",
+  "ID": "AT-F1",
+  "image": "https://tomato-major-warbler-368.mypinata.cloud/ipfs/bafybeifoxmbyhktbp6nheqqx6r4rujuswkjbacmaqposzlifw6m2yil5lu",
+  "description": "Floor 1 of Ariana Tower. This floor contains 16 commercial units within The Earth ecosystem.",
+  "external_url": "https://metarang.com/",
+
+  "atributes": [
+    {
+      "trait-type": "area",
+      "value": 98462.744
+    },
+    {
+      "trait-type": "height",
+      "value": 12
+    },
+    {
+      "trait-type": "Width",
+      "value": 379
+    },
+    {
+      "trait-type": "Length",
+      "value": 905.15
+    },
+    {
+      "trait-type": "Usage",
+      "value": "Commercial"
+    },
+    {
+      "trait-type": "birthday",
+      "value": 1730768462
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "name": "ArianaTower",
+  "id": "AT_1",
+  "image": "https://tomato-major-warbler-368.mypinata.cloud/ipfs/bafkreih2ye3ucln6hlphehpyxurl7ecvxc32okjc6auijwss7f722kt7oy",
+  "description": "This NFT represents the Ariana Tower as a commercial and real estate asset.",
+  "external_url": "https://metarang.com/",
+
+  "atributes": [
+    {
+      "trait_type": "parent NFT",
+      "value": "ArianaTower"
+    },
+    {
+      "trait_type": "subcategory",
+      "value": "ArianaTower_F1, ArianaTower_F1_U1"
+    },
+    {
+      "trait-type": "area",
+      "value": 98462.744
+    },
+    {
+      "trait-type": "number_of_floors",
+      "value": 40
+    },
+    {
+      "trait-type": "height",
+      "value": 905.15
+    },
+    {
+      "trait-type": "width",
+      "value": 115.379
+    },
+    {
+      "trait-type": "birthday",
+      "value": 1730768462
+    }
+  ]
+}

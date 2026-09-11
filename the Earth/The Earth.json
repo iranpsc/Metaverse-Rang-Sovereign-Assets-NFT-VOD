@@ -1,0 +1,14 @@
+{
+  "name": "The Earth",
+  "ID": "1",
+  "image": "https://tomato-major-warbler-368.mypinata.cloud/ipfs/bafybeifphae4uaih5gjuhzhmgvp2xysvnzz3msjergz4mksznf3rxhpagi",
+  "description":"This NFT represents the planet Earth as the foundation of geographic, architectural, and real-estate assets.",
+  "external_url": "https://metarang.com/",
+
+  "atributes": [
+    {
+      "trait-type": "area",
+      "value": "510000000"
+    }
+  ]
+}

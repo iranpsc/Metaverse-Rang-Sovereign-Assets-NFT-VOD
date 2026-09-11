@@ -1,0 +1,25 @@
+{
+  "name": "Great Tunb Island",
+  "id":"GTI-1",
+  "description": "A digital representation of Great Tunb Island within The Earth NFT ecosystem. This NFT represents a land asset with residential, commercial, educational, and green space characteristics.",
+  "image": "https://tomato-major-warbler-368.mypinata.cloud/ipfs/bafkreieqhla6q7ad5flpvkqod27zmiuaamze22yzpxaqfqis4fcvwvduiu",
+  "external_url": "https://metarang.com/",
+  "attributes": [
+    {
+      "trait_type": "parent NFT",
+      "value": "The Earth"
+    },
+    {
+      "trait_type": "usage",
+      "value": "Educational, Green Space, Commercial,residential"
+    },
+    {
+      "trait_type": "birthday",
+      "value": 1730768462
+    },
+    {
+      "trait_type": "area (sqm)",
+      "value": 7545297
+    }
+  ]
+}
